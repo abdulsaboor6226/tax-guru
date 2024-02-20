@@ -25,7 +25,7 @@
                                 <div class="col-lg-12">
                                     <div class="row">
                                         <div class="col-lg-12 row">
-                                            <label class=" col-form-label required fw-semibold mx-0 fs-6">Total Wealth</label>
+                                            <label class=" col-form-label required fw-semibold mx-0 fs-6">Last Balance on 30th June</label>
                                             <div class="col-lg-4">
                                                 <input type="number" name="wealth" class="form-control form-control-lg form-control-solid mb-3 mb-lg-0 " placeholder="Total Wealth" value="" />
                                             </div>
